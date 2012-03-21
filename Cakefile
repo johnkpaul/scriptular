@@ -20,5 +20,5 @@ build = (callback) ->
 
 
 
-task 'build', 'Build application.js from srcipts/', ->
+task 'build', 'Build application.js from scripts/', ->
   build()
